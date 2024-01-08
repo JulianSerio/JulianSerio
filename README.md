@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Julian from Argentina, and these are some of my skills:
+Hey there! I'm Julian, hailing from Argentina, and here are some of my skills:
 
 - 💻 **Android Studio**
 - ☕️ **Java**
 - 🧠 **Critical Thinking**
 - 💡 **Decision Making and Problem-Solving Skills**
 
-I'm all set to bring in my expertise! 😊
+Currently, I'm studying Computer Science and ready to contribute with my expertise! 😊
