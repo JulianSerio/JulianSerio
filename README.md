@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I'm Julian from Argentina, I am looking to expand and deepen my knowledge in mobile application development, actively exploring new areas and interested in developing solid experience in this field., and here are some of my skills:
+ I'm Julian from Argentina, I am looking to expand and deepen my knowledge in mobile application development, actively exploring new areas and interested in developing solid experience in this field, here are some of my skills:
 
 - ⌨️ **C**
 - ☕️ **Java**
