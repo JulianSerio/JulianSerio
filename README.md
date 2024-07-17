@@ -15,8 +15,12 @@ I'm Julian from Argentina, I am looking to expand and deepen my knowledge in mob
 
 Currently, I'm studying Computer Science and ready to contribute with my expertise! 😊
 <h2 align="center" style="color: #ffff;">👑 Proyectos 👑</h2>
+  <a href="https://github.com/JulianSerio/CAC-Movies"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=CAC-Movies&theme=midnight-purple&icon_color=F8D866"></a>
+  <a href="https://github.com/JulianSerio/Proyecto-NET"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Proyecto-Net&theme=midnight-purple&icon_color=17202A"></a>
+  <a href="https://github.com/JulianSerio/PasswordGenerator"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=PasswordGenerator&theme=midnight-purple&icon_color=17202A"></a>
+  <a href="https://github.com/JulianSerio/calculadoraSESIO"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=calculadoraSESIO&theme=midnight-purple&icon_color=17202A"></a>
 
-
+  https://github.com/JulianSerio/calculadoraSESIO
 ---
 ## 📊 GitHub Stats:
 <div align="center">
