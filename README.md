@@ -2,10 +2,13 @@
 
 I'm Julian from Argentina, I am looking to expand and deepen my knowledge in mobile application development, actively exploring new areas and interested in developing solid experience in this field. Here are some of my skills:
 
-- ⌨️ **C**
+- ☸️ **C**
 - ☕️ **Java**
 - 🐍 **Python**
 - 🤖 **Kotlin**
+- 🐙 **Github**
+- ⌨️ **C# .NET**
+- 🌐 **HTML-CSS**
 - 💻 **Android Studio**
 - 🧠 **Critical Thinking**
 - 💡 **Decision Making and Problem-Solving Skills**
