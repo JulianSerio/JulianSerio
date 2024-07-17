@@ -19,3 +19,16 @@ Currently, I'm studying Computer Science and ready to contribute with my experti
 </div>
 
 ---
+<h2 align="center" style="color: #ffff;">🎩 Primer año 🎩</h2>
+<div align="center" style="background-color: #F8D866;">
+
+</div>
+
+<h2 align="center" style="color: #ffff;">🎩 Segundo año 🎩</h2>
+<div align="center" style="background-color: #F8D866;">
+  <a href="https://github.com/JulianSerio/Algoritmos-y-Estructuras-de-Datos"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Algoritmos-y-Estructuras-de-Datos&theme=midnight-purple&icon_color=F8D866"></a>
+  <a href="https://github.com/JulianSerio/Fundamentos-de-la-Organizacion-de-Datos"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Fundamentos-de-la-Organizacion-de-Datos&theme=midnight-purple&icon_color=17202A"></a>
+  <a href="https://github.com/JulianSerio/Seminario.NET"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Seminario.NET&theme=midnight-purple&icon_color=F8D866"</a>
+  <a href="https://github.com/JulianSerio/Orientacion-a-Objetos-1"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Orientacion-a-Objetos-1&theme=midnight-purple&icon_color=17202A"></a>
+    <a href="https://github.com/JulianSerio/Introduccion-a-SO"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Introduccion-a-SO&theme=midnight-purple&icon_color=17202A"></a>
+</div>
