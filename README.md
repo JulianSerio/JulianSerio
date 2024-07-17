@@ -22,3 +22,6 @@ Currently, I'm studying Computer Science and ready to contribute with my experti
 - [Seminario-de-Lenguajes](https://github.com/JulianSerio/Seminario.NET)
 - [Orientacion-a-Objetos](https://github.com/JulianSerio/Orientacion-a-Objetos-1)
 - [Introduccion-a-los-Sistemas-Operativos](https://github.com/JulianSerio/Introduccion-a-SO)
+## 📚 Segundo año
+### Fundamentos de Organización de Computadoras
+- [Fundamentos-de-Organizacion-de-computadoras](https://github.com/JulianSerio/Fundamentos-de-Organizacion-de-computadoras)
