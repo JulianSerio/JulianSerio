@@ -24,7 +24,7 @@ Currently, I'm studying Computer Science and ready to contribute with my experti
 ---
 <h2 align="center" style="color: #ffff;">🎩 Primer año 🎩</h2>
 <div align="center" style="background-color: #F8D866;">
-
+  <a href="https://github.com/JulianSerio/Concepto-de-Algoritmos-Datos-y-Programas"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Concepto-de-Algoritmos-Datos-y-Programas&theme=midnight-purple&icon_color=F8D866"></a>
 </div>
 
 <h2 align="center" style="color: #ffff;">🎩 Segundo año 🎩</h2>
