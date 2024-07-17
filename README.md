@@ -14,7 +14,10 @@ I'm Julian from Argentina, I am looking to expand and deepen my knowledge in mob
 - 💡 **Decision Making and Problem-Solving Skills**
 
 Currently, I'm studying Computer Science and ready to contribute with my expertise! 😊
+<h2 align="center" style="color: #ffff;">👑 Proyectos 👑</h2>
 
+
+---
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulianSerio&theme=midnight-purple&hide_border=false" alt="GitHub Streak Stats"><br>
@@ -22,12 +25,12 @@ Currently, I'm studying Computer Science and ready to contribute with my experti
 </div>
 
 ---
-<h2 align="center" style="color: #ffff;">🎩 Primer año 🎩</h2>
+<h2 align="center" style="color: #ffff;">1️⃣ Primer año 1️⃣</h2>
 <div align="center" style="background-color: #F8D866;">
   <a href="https://github.com/JulianSerio/Concepto-de-Algoritmos-Datos-y-Programas"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Concepto-de-Algoritmos-Datos-y-Programas&theme=midnight-purple&icon_color=F8D866"></a>
 </div>
 
-<h2 align="center" style="color: #ffff;">🎩 Segundo año 🎩</h2>
+<h2 align="center" style="color: #ffff;">2️⃣ Segundo año 2️⃣</h2>
 <div align="center" style="background-color: #F8D866;">
   <a href="https://github.com/JulianSerio/Algoritmos-y-Estructuras-de-Datos"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Algoritmos-y-Estructuras-de-Datos&theme=midnight-purple&icon_color=F8D866"></a>
   <a href="https://github.com/JulianSerio/Fundamentos-de-la-Organizacion-de-Datos"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Fundamentos-de-la-Organizacion-de-Datos&theme=midnight-purple&icon_color=17202A"></a>
