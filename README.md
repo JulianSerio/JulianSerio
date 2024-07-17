@@ -14,20 +14,19 @@ I'm Julian from Argentina, I am looking to expand and deepen my knowledge in mob
 - 💡 **Decision Making and Problem-Solving Skills**
 
 Currently, I'm studying Computer Science and ready to contribute with my expertise! 😊
-<h2 align="center" style="color: #ffff;">👑 Proyectos 👑</h2>
-  <a href="https://github.com/JulianSerio/CAC-Movies"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=CAC-Movies&theme=midnight-purple&icon_color=F8D866"></a>
-  <a href="https://github.com/JulianSerio/Proyecto-NET"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Proyecto-Net&theme=midnight-purple&icon_color=17202A"></a>
-  <a href="https://github.com/JulianSerio/PasswordGenerator"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=PasswordGenerator&theme=midnight-purple&icon_color=17202A"></a>
-  <a href="https://github.com/JulianSerio/calculadoraSESIO"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=calculadoraSESIO&theme=midnight-purple&icon_color=17202A"></a>
-
-  https://github.com/JulianSerio/calculadoraSESIO
----
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulianSerio&theme=midnight-purple&hide_border=false" alt="GitHub Streak Stats"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianSerio&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </div>
-
+---
+<h2 align="center" style="color: #ffff;">👑 Proyectos 👑</h2>
+<div align="center" style="background-color: #F8D866;">
+  <a href="https://github.com/JulianSerio/CAC-Movies"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=CAC-Movies&theme=midnight-purple&icon_color=F8D866"></a>
+  <a href="https://github.com/JulianSerio/Proyecto-NET"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Proyecto-Net&theme=midnight-purple&icon_color=17202A"></a>
+  <a href="https://github.com/JulianSerio/PasswordGenerator"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=PasswordGenerator&theme=midnight-purple&icon_color=17202A"></a>
+  <a href="https://github.com/JulianSerio/calculadoraSESIO"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=calculadoraSESIO&theme=midnight-purple&icon_color=17202A"></a>
+</div>
 ---
 <h2 align="center" style="color: #ffff;">1️⃣ Primer año 1️⃣</h2>
 <div align="center" style="background-color: #F8D866;">
