@@ -1,6 +1,9 @@
-## Hi there, I'm [Julián Serio](https://julianserio.github.io) 👋
+# Hi there, I'm [Julián Serio](https://julianserio.github.io) 👋
 
 I'm Julian from Argentina, I am looking to expand and deepen my knowledge in mobile application development, actively exploring new areas and interested in developing solid experience in this field.
+As a lifelong learner, I thrive on expanding my knowledge and acquiring new skills. I am constantly exploring the latest trends and technologies to enhance my development process and deliver innovative solutions. With each project, I embrace the opportunity to challenge myself, adapt to emerging trends, and push the boundaries of what's possible.
+
+I am currently a student at the National University of La Plata and while I carry out ambitious personal projects.
 
 ## Skills
 
@@ -64,54 +67,60 @@ I'm Julian from Argentina, I am looking to expand and deepen my knowledge in mob
 
 <div align="center">
 <a href="https://github.com/codediaz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianserio&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianserio&layout=compact&langs_count=7&theme=default"/></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianSerio&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianserio&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
 
+---
 
-### Proyectos 👑
+## Proyectos 👑
 <div align="center">
   <a href="https://github.com/JulianSerio/CAC-Movies">
-    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=CAC-Movies&theme=midnight-purple&icon_color=F8D866">
+    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=CAC-Movies&theme=dracula&icon_color=F8D866">
   </a>
   <a href="https://github.com/JulianSerio/Proyecto-NET">
-    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Proyecto-Net&theme=midnight-purple&icon_color=F8D866">
+    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Proyecto-Net&theme=dracula&icon_color=F8D866">
   </a><br>
   <a href="https://github.com/JulianSerio/PasswordGenerator">
-    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=PasswordGenerator&theme=midnight-purple&icon_color=F8D866">
+    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=PasswordGenerator&theme=dracula&icon_color=F8D866">
   </a>
   <a href="https://github.com/JulianSerio/calculadoraSESIO">
-    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=calculadoraSESIO&theme=midnight-purple&icon_color=F8D866">
+    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=calculadoraSESIO&theme=dracula&icon_color=F8D866">
   </a>
 </div>
 
 ---
 
-### Primer año 1️⃣
+## Contenido de materias de la facultad. 
+
+
+### Primer Año 1️⃣
 <div align="center">
   <a href="https://github.com/JulianSerio/Concepto-de-Algoritmos-Datos-y-Programas">
-    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Concepto-de-Algoritmos-Datos-y-Programas&theme=midnight-purple&icon_color=F8D866">
+    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Concepto-de-Algoritmos-Datos-y-Programas&theme=dracula&icon_color=F8D866">
   </a>
 </div>
 
 ---
 
-### Segundo año 2️⃣
+### Segundo Año 2️⃣
 <div align="center">
   <a href="https://github.com/JulianSerio/Algoritmos-y-Estructuras-de-Datos">
-    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Algoritmos-y-Estructuras-de-Datos&theme=midnight-purple&icon_color=F8D866">
+    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Algoritmos-y-Estructuras-de-Datos&theme=dracula&icon_color=F8D866">
   </a>
   <a href="https://github.com/JulianSerio/Fundamentos-de-la-Organizacion-de-Datos">
-    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Fundamentos-de-la-Organizacion-de-Datos&theme=midnight-purple&icon_color=F8D866">
+    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Fundamentos-de-la-Organizacion-de-Datos&theme=dracula&icon_color=F8D866">
   </a><br>
   <a href="https://github.com/JulianSerio/Seminario.NET">
-    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Seminario.NET&theme=midnight-purple&icon_color=F8D866">
+    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Seminario.NET&theme=dracula&icon_color=F8D866">
   </a>
   <a href="https://github.com/JulianSerio/Orientacion-a-Objetos-1">
-    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Orientacion-a-Objetos-1&theme=midnight-purple&icon_color=F8D866">
+    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Orientacion-a-Objetos-1&theme=dracula&icon_color=F8D866">
   </a><br>
   <a href="https://github.com/JulianSerio/Introduccion-a-SO">
-    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Introduccion-a-SO&theme=midnight-purple&icon_color=F8D866">
+    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Introduccion-a-SO&theme=dracula&icon_color=F8D866">
   </a>
 </div>
+
+### Tercer Año 3️⃣
 
