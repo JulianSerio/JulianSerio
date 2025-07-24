@@ -126,8 +126,11 @@ I am currently a student at the National University of La Plata and while I carr
   <a href="https://github.com/JulianSerio/Orientacion-a-Objetos-1">
     <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Orientacion-a-Objetos-1&theme=dracula&icon_color=F8D866">
   </a><br>
-  <a href="https://github.com/JulianSerio/Introduccion-a-SO">
-    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Introduccion-a-SO&theme=dracula&icon_color=F8D866">
+  <a href="https://github.com/JulianSerio/Ingenieria-de-Softwere-1">
+    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Ingenieria-de-Software-1&theme=dracula&icon_color=F8D866">
+  </a>
+  <a href="https://github.com/JulianSerio/Introduccion-a-los-Sistemas-Operativos">
+    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Introduccion-a-los-Sistemas-Operativos&theme=dracula&icon_color=F8D866">
   </a>
   <a href="https://github.com/JulianSerio/Diseno-de-Bases-de-Datos">
     <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Diseno-de-Bases-de-Datos&theme=dracula&icon_color=F8D866">
@@ -138,6 +141,9 @@ I am currently a student at the National University of La Plata and while I carr
 <div align="center">
   <a href="https://github.com/JulianSerio/Ingenieria-de-Softwere-2">
     <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Ingenieria-de-Softwere-2&theme=dracula&icon_color=F8D866">
+  </a>
+  <a href="https://github.com/JulianSerio/Orientacion-a-Objetos-2">
+    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Orientacion-a-Objetos-2&theme=dracula&icon_color=F8D866">
   </a>
   <a href="https://github.com/JulianSerio/Redes-y-Comunicaciones">
     <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JulianSerio&repo=Redes-y-Comunicaciones&theme=dracula&icon_color=F8D866">
