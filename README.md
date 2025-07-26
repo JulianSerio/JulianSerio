@@ -1,6 +1,5 @@
 # Hi there, I'm [Julián Serio](https://julianserio.github.io) 👋
 
-Hi! I'm Julián from Argentina.
 I’m a curious and motivated person who enjoys learning, building things and working with others.
 
 I’m currently studying Information Systems at the National University of La Plata, where I discovered my passion for software development and the endless opportunities that technology offers to create solutions that make an impact.
