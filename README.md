@@ -1,9 +1,12 @@
 # Hi there, I'm [Julián Serio](https://julianserio.github.io) 👋
 
-I'm Julian from Argentina, I am looking to expand and deepen my knowledge in mobile application development, actively exploring new areas and interested in developing solid experience in this field.
-As a lifelong learner, I thrive on expanding my knowledge and acquiring new skills. I am constantly exploring the latest trends and technologies to enhance my development process and deliver innovative solutions. With each project, I embrace the opportunity to challenge myself, adapt to emerging trends, and push the boundaries of what's possible.
+Hi! I'm Julián from Argentina.
+I’m a curious and motivated person who enjoys learning, building things and working with others.
 
-I am currently a student at the National University of La Plata and while I carry out ambitious personal projects.
+I’m currently studying Information Systems at the National University of La Plata, where I discovered my passion for software development and the endless opportunities that technology offers to create solutions that make an impact.
+
+I love taking on new challenges that push me to grow, both personally and professionally.
+I’m looking forward to my first experience in the IT world, where I can contribute my commitment, enthusiasm, and willingness to learn while continuing to improve every day.
 
 ## Skills
 
