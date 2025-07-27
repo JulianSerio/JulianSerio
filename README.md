@@ -1,11 +1,11 @@
 # Hi there, I'm [Julián Serio](https://julianserio.github.io) 👋
 
-I’m a curious and motivated person who enjoys learning, building things and working with others.
+I am a student of IT Analysis and Information Systems at the National University of La Plata.
+I am passionate about cybersecurity, DevOps, and software development, fields in which I am eager to keep learning and growing professionally.
 
-I’m currently studying Information Systems at the National University of La Plata, where I discovered my passion for software development and the endless opportunities that technology offers to create solutions that make an impact.
+I have hands-on experience developing web, mobile, and desktop applications, and I enjoy working in a team, learning from others, and contributing with commitment, curiosity, and a willingness to improve.
 
-I love taking on new challenges that push me to grow, both personally and professionally.
-I’m looking forward to my first experience in the IT world, where I can contribute my commitment, enthusiasm, and willingness to learn while continuing to improve every day.
+My goal is to continue developing my technical and professional skills in dynamic environments that challenge me and allow me to create value through technology.
 
 ## Skills
 
