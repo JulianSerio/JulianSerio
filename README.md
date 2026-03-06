@@ -65,14 +65,6 @@ My goal is to continue developing my technical and professional skills in dynami
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/julianserioo)
 </p>
 
-## Github Stats ⭐ 
-
-<div align="center">
-<a href="https://github.com/codediaz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianSerio&show_icons=true&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianserio&layout=compact&langs_count=7&theme=dracula"/></a>
-</div>
-
 ---
 
 ## Proyectos 👑
